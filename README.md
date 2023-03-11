@@ -16,8 +16,7 @@
 
 <p align="left">
   🔧 Ferramentas ⤵️<br> <strong> <a href="#" alt="MySQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="#" alt="Visual Studio Code">
-  <img src="<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />" /></a></strong>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a></strong>
 </p>
 
 <p align="left">
