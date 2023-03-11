@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💻 Skills ⤵️<br> <strong><a href="#" alt="HTML">
+  💻 Skills ⤵️<br><br> <strong><a href="#" alt="HTML">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="#" alt="CSS">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="#" alt="JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="#" alt="Phyton">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🔧 Ferramentas ⤵️<br> <strong> <a href="#" alt="MySQL">
+  🔧 Ferramentas ⤵️<br><br> <strong> <a href="#" alt="MySQL">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a></strong>
 </p>
 
