@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola, seja bem vindo ao meu espaço, Atualmente estudando na <strong>esucri</strong>.<br>
+  Ola, seja bem vindo ao meu espaço, Atualmente estudando na <strong>Esucri</strong>.<br>
   Cursando Sistemas de Informação.
 </p>
 
